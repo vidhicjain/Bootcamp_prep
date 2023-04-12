@@ -1,0 +1,5 @@
+,name,external_id,description,labels,metadata,parent_external_id
+0,Oslo,oslo,"Site in Oslo, Norway",['isa95:site'],"{'site': 'Oslo', 'country': 'Norway', 'size': 'sm', 'src': 'sap'}",
+1,Product,oslo_product,,['isa95:area'],"{'site': 'Oslo', 'src': 'sap', 'type': 'product'}",oslo
+2,Raw materials,OPRM137,,['isa95:unit'],"{'cycle time': '3 s', 'site': 'Oslo', 'src': 'sap', 'type': 'raw_materials'}",oslo_product
+3,Finished goods,OPFG978,,['isa95:unit'],"{'cycle time': '3 s', 'site': 'Oslo', 'src': 'sap', 'type': 'finished_goods'}",oslo_product
