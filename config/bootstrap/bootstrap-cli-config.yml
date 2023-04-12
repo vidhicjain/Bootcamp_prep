@@ -65,4 +65,4 @@ logger:
         path: ./logs/bootstrap-cli-logs.log
         level: INFO
     console:
-        level: INF0
+        level: INFO
