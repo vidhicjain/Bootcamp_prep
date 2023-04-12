@@ -53,7 +53,7 @@ bootstrap:
                         - node-name: src:002:opcua
 cognite:
     host: ${BOOTSTRAP_CDF_HOST}
-    project: ${BOOTSTRAP_CDF_PROJECT}S
+    project: ${BOOTSTRAP_CDF_PROJECT}
     idp-authentication:
         client-id: ${BOOTSTRAP_IDP_CLIENT_ID}
         secret: ${BOOTSTRAP_IDP_CLIENT_SECRET}
