@@ -1,0 +1,2 @@
+query:
+    file: transformation.sql
