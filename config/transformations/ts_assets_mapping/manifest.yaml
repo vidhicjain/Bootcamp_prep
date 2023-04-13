@@ -1,7 +1,7 @@
 ---
 # Manifest file downloaded from fusion
-externalId: tr-ts_assets_mapping_ui
-name: ts_assets_mapping_ui
+externalId: tr-ts_assets_mapping
+name: ts_assets_mapping
 query: >-
     SELECT ts.externalId AS externalId,
            ast.id AS assetId
@@ -14,7 +14,6 @@ ignoreNullFields: true
 shared: true
 action: update
 dataSetExternalId: uc:001:oee:ds
-
 
 authentication:
     clientId: ${COGNITE_CLIENT_ID}
